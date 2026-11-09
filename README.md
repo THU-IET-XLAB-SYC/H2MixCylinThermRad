@@ -1,2 +1,2 @@
 # H2MixCylinThermRad
-Hydrogen-Containing Mixture Cylinder Thermal Radiation Calculation
+This is a standalone desktop app containing the calculation package for the hydrogen-containing mixture storage cylinder thermal radiation to enable a convenient access for hydrogen energy researchers and engineers. The app can calculate the thermal radiation characteristics for the H2−CO2−CH4−CO−H2O quinary system in storage cylinders at a fire outbreak. The MATLAB Runtime R2025b environment is required for deployment of the standalone app.
